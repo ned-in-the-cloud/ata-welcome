@@ -6,7 +6,18 @@ Welcome to the Azure Terraform Advanced labs! This hands-on learning experience 
 
 Please complete the labs in the following order:
 
-1. **[Terraform Review]()**
+1. **[Terraform Review](https://codespaces.new/ned-in-the-cloud/ata-terraform-review)**
+1. **[Dynamic Expressions]()**
+1. **[Lifecycle Blocks]()**
+1. **[Moved and Removed Blocks]()**
+1. **[Importing Existing Infrastructure]()**
+1. **[HCP Terraform Setup]()**
+1. **[Setting Up a Workspace]()**
+1. **[Creating a Module]()**
+1. **[Using Pre/Post Conditions]()**
+1. **[Using the Terraform Test Framework]()**
+1. **[CI/CD with HCP Terraform]()**
+1. **[Sentinel Policies]()**
 
 ## 🛠️ Getting Started
 
@@ -38,19 +49,24 @@ When you launch other Codespaces, you can select the secrets you've already stor
 
 Tick each check box to use the same credentials with the new Codespace.
 
+If you close a Codespace and need to return, you can view all your [currently running Codespaces here.](https://github.com/codespaces) Please DO NOT launch a new Codespace for the same lab!
+
+When you are done with the Codespace for a lab, you can simply close the browser tab. The Codespace will automatically delete itself after 24 hours. You can also delete the Codespace from the [Codespaces dashboard view](https://github.com/codespaces).
+
 ## ⚠️ Important Reminders
 
 ### Resource Management
 
 - **Nightly Cleanup**: All Azure lab resources are automatically cleaned up every night to prevent unnecessary costs
 - **Plan Accordingly**: Complete your lab work within a single day, or be prepared to recreate resources if you continue the next day
-- **Credentials expiration**: Your credentials will expire the day following the last class
+- **Credentials expiration**: Your credentials will expire the 3 days following the last class
 
 ### Codespace Limitations
 
 - **Timeout**: Codespaces will timeout after **120 minutes** of inactivity
 - **Deletion**: Codespaces are automatically deleted after **1 day**
 - **No Commits**: You have been granted *Write* access to the repository. Please do not create branches or pull requests.
+- **Max Codespaces**: You are limited to 10 concurrently running Codespaces. In the unlikely event you run out, clean up your running Codespaces from the [Codespaces dashboard view](https://github.com/codespaces).
 
 ## 📞 Support
 
@@ -62,4 +78,4 @@ If you encounter any issues during the labs:
 
 ---
 
-Last updated: August 29, 2025
+Last updated: October 2, 2025

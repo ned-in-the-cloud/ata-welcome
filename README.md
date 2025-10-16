@@ -29,6 +29,8 @@ Your instructor will guide you through when to launch each lab. The labs are lis
 
 Each lab link will launch a GitHub Codespace. A codespace is a sandboxed IDE environment running in your browser that includes the lab directions, starter code, and a terminal to run commands. All the necessary tools and applications are already installed in the codespace, including Terraform, Azure CLI, jq, git, and lots more.
 
+To familiarize yourself with the Codespace environment prior to class, you may launch the Terraform Test Lab which will walk you through a basic lab environment. Right click on [this link and launch the Codespace](https://codespaces.new/ned-in-the-cloud/terraform-test-lab) in a separate tab.
+
 When you launch the Codespace for each lab, accept the defaults for the branch (*main*), image name (*Terraform Development Environment*), and size (*2-core*). Make sure the region should is set to **US East**.
 
 ![Region selection screenshot](./images/region.png)

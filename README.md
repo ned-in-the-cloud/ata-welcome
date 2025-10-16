@@ -4,26 +4,30 @@ Welcome to the Azure Terraform Advanced labs! This hands-on learning experience 
 
 ## 📚 Lab Repositories
 
-Please complete the labs in the following order:
+The links to the labs are contained below. Each link will launch a GitHub Codespace environment for you to work in for the duration of that lab. **Before** starting the labs, please read through the [Using GitHub Codespaces](#using-github-codespaces) section to familiarize yourself with the process.
+
+Your instructor will guide you through when to launch each lab. The labs are listed in the order they will be done:
 
 1. **[Terraform Review](https://codespaces.new/ned-in-the-cloud/ata-terraform-review)**
-1. **[Dynamic Expressions]()**
-1. **[Lifecycle Blocks]()**
-1. **[Moved and Removed Blocks]()**
-1. **[Importing Existing Infrastructure]()**
-1. **[Getting Started with HCP Terraform]()**
-1. **[Setting Up a VCS Workflow]()**
-1. **[Working with the Private Registry]()**
-1. **[Using Pre/Post Conditions]()**
-1. **[Using the Terraform Test Framework]()**
-1. **[CI/CD with HCP Terraform]()**
-1. **[Sentinel Policies]()**
+1. **[For Expressions](https://codespaces.new/ned-in-the-cloud/ata-for-expressions)**
+1. **[Conditional Logic](https://codespaces.new/ned-in-the-cloud/ata-conditional-logic)**
+1. **[Dynamic Expressions](https://codespaces.new/ned-in-the-cloud/ata-dynamic-expressions)**
+1. **[Lifecycle Blocks](https://codespaces.new/ned-in-the-cloud/ata-lifecycle-blocks)**
+1. **[Moved and Removed Blocks](https://codespaces.new/ned-in-the-cloud/ata-moved-blocks)**
+1. **[Importing Existing Infrastructure](https://codespaces.new/ned-in-the-cloud/ata-import)**
+1. **[Getting Started with HCP Terraform](https://codespaces.new/ned-in-the-cloud/ata-hcp-setup)**
+1. **[Setting Up a VCS Workflow](https://github.com/ned-in-the-cloud/ata-hcp-vcs)** (NO CODESPACE)
+1. **[Working with the Private Registry](https://codespaces.new/ned-in-the-cloud/ata-hcp-private-modules)**
+1. **[Using Pre/Post Conditions](https://codespaces.new/ned-in-the-cloud/ata-pre-post-conditions)**
+1. **[Using the Terraform Test Framework](https://codespaces.new/ned-in-the-cloud/ata-testing-framework)**
+1. **[CI/CD with HCP Terraform](https://github.com/ned-in-the-cloud/ata-hcp-cicd)** (NO CODESPACE)
+1. **[Sentinel Policies](https://codespaces.new/ned-in-the-cloud/ata-sentinel-policy)**
 
 ## 🛠️ Getting Started
 
 ### Using GitHub Codespaces
 
-Each lab link will launch a GitHub Codespace. A codespace is a sandboxed environment running in your browser that includes the lab directions, starter code, and a terminal to run commands. All the necessary tools and applications are already installed in the codespace, including Terraform, Azure CLI, jq, git, and lots more.
+Each lab link will launch a GitHub Codespace. A codespace is a sandboxed IDE environment running in your browser that includes the lab directions, starter code, and a terminal to run commands. All the necessary tools and applications are already installed in the codespace, including Terraform, Azure CLI, jq, git, and lots more.
 
 When you launch the Codespace for each lab, accept the defaults for the branch (*main*), image name (*Terraform Development Environment*), and size (*2-core*). Make sure the region should is set to **US East**.
 
@@ -59,7 +63,7 @@ When you are done with the Codespace for a lab, you can simply close the browser
 
 - **Nightly Cleanup**: All Azure lab resources are automatically cleaned up every night to prevent unnecessary costs
 - **Plan Accordingly**: Complete your lab work within a single day, or be prepared to recreate resources if you continue the next day
-- **Credentials expiration**: Your credentials will expire the 3 days following the last class
+- **Credentials expiration**: Your credentials will expire 3 days following the last class
 
 ### Codespace Limitations
 
@@ -78,4 +82,4 @@ If you encounter any issues during the labs:
 
 ---
 
-Last updated: October 2, 2025
+Last updated: October 16, 2025

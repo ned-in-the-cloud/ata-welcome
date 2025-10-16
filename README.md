@@ -11,9 +11,9 @@ Please complete the labs in the following order:
 1. **[Lifecycle Blocks]()**
 1. **[Moved and Removed Blocks]()**
 1. **[Importing Existing Infrastructure]()**
-1. **[HCP Terraform Setup]()**
-1. **[Setting Up a Workspace]()**
-1. **[Creating a Module]()**
+1. **[Getting Started with HCP Terraform]()**
+1. **[Setting Up a VCS Workflow]()**
+1. **[Working with the Private Registry]()**
 1. **[Using Pre/Post Conditions]()**
 1. **[Using the Terraform Test Framework]()**
 1. **[CI/CD with HCP Terraform]()**

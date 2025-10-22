@@ -16,6 +16,7 @@ Your instructor will guide you through when to launch each lab. The labs are lis
 1. **[Moved and Removed Blocks](https://codespaces.new/ned-in-the-cloud/ata-moved-blocks)**
 1. **[Importing Existing Infrastructure](https://codespaces.new/ned-in-the-cloud/ata-import)**
 1. **[Getting Started with HCP Terraform](https://codespaces.new/ned-in-the-cloud/ata-hcp-setup)**
+1. **[HCP Terraform State Storage](https://codespaces.new/ned-in-the-cloud/ata-hcp-state)**
 1. **[Setting Up a VCS Workflow](https://github.com/ned-in-the-cloud/ata-hcp-vcs)** (NO CODESPACE)
 1. **[Working with the Private Registry](https://codespaces.new/ned-in-the-cloud/ata-private-modules)**
 1. **[Using Pre/Post Conditions](https://codespaces.new/ned-in-the-cloud/ata-pre-post-conditions)**

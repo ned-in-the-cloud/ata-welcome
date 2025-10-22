@@ -23,6 +23,7 @@ Your instructor will guide you through when to launch each lab. The labs are lis
 1. **[Using the Terraform Test Framework](https://codespaces.new/ned-in-the-cloud/ata-testing-framework)**
 1. **[CI/CD with HCP Terraform](https://github.com/ned-in-the-cloud/ata-hcp-cicd)** (NO CODESPACE)
 1. **[Sentinel Policies](https://codespaces.new/ned-in-the-cloud/ata-sentinel-policy)**
+1. **[Ephemeral Values](https://codespaces.new/ned-in-the-cloud/ata-ephemeral-values)**
 
 ## 🛠️ Getting Started
 
@@ -74,6 +75,20 @@ When you are done with the Codespace for a lab, you can simply close the browser
 - **Deletion**: Codespaces are automatically deleted after **1 day**
 - **No Commits**: You have been granted *Write* access to the repository. Please do not create branches or pull requests.
 - **Max Codespaces**: You are limited to 10 concurrently running Codespaces. In the unlikely event you run out, clean up your running Codespaces from the [Codespaces dashboard view](https://github.com/codespaces).
+
+### Codespace Copy/Paste Weirdness
+
+Depending on your browser, you may encounter issues with copy and paste into the terminal window. When you try to pasted the first time you'll receive a prompt to allow clipboard access:
+
+![Allow clipboard access](./images/clipboard-access.png)
+
+When you attempt to paste the second time, no prompt is generated, but the following icon is displayed on the browser bar:
+
+![Clipboard icon](./images/clipboard-icon.png)
+
+Click on the icon and Allow clipboard access. You may have to click Allow twice.
+
+This is a known issue, and there is no current workaround.
 
 ## 📞 Support
 
